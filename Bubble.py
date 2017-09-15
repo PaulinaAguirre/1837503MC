@@ -4,6 +4,7 @@ Editor de Spyder
 
 Este es un archivo temporal
 """
+#Burbuja
 
 def burbuja(A):
     numero=len(A)
