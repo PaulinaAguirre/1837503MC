@@ -23,6 +23,7 @@ class pila(object): #quitas el más nuevo
     def __str__(self):
         return str(self.a)
     
+#Fila    
 class fila(pila):
     def obtener(self):
         return self.a.pop(0)
